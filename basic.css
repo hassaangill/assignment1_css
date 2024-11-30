@@ -1,0 +1,85 @@
+.center{
+    text-align: center;
+}
+body{ padding: 30px;
+    font-family: Arial
+}
+.loader {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #ffffff;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+.Examples{
+    padding: 10px;
+    margin: 8px 0px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+.Light{
+    font-weight: 300;
+}
+.normal{
+    font-weight: 400;
+}
+.bold{
+    font-weight: 700;
+}
+.extra-bold{
+    font-weight: 900;
+}
+.small{
+    font-size: 12px;
+}
+.medium{
+    font-size: 18px;
+}
+.large{
+    font-size: 24px;
+}
+.extra-large{
+    font-size: 32px;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.green{
+    color: green;
+}
+.orange{
+    color: orange;
+}
+.gray{
+    background-color: lightgray;
+}
+.yellow{
+    background-color: yellow;
+}
+.cyan{
+    background-color: cyan;
+}
+.pink{
+    background-color: pink;
+}
+.mixed-text-large{
+    background-color: yellow;
+    color: blue;
+    font-size: large;
+    font-weight: bold;
+}
+.mixed-text-small{
+    background-color: lightgray;
+    color:green;
+    font-size: small;
+    font-weight: light;
+}
+.mixed-text-extra{
+    background-color: pink;
+    color: orange;
+    font-size: 32px;
+    font-weight: 900;
+}
